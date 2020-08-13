@@ -1,10 +1,7 @@
 # Proyecto-Final-Visualizaci-n
 1. Introducción
-Este proyecto busca 
--Contexto
--Pregunta/Objetivo:
--Importancia:
-
+El presente proyecto busca evaluar como las variables
+Podemos definir homofilia como la tendencia a relacionarse con otras personas con las cuales se tienen cosas en común (ejemplo: demografía, gustos, actitudes y valores). 
 
 2. Descripción de los datos
 
